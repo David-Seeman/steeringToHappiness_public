@@ -1,0 +1,182 @@
+[
+ {
+  "layer": 0,
+  "fraction_of_depth": 0.0,
+  "vector_over_residual": 0.7083955407142639
+ },
+ {
+  "layer": 1,
+  "fraction_of_depth": 0.03,
+  "vector_over_residual": 0.5433188676834106
+ },
+ {
+  "layer": 2,
+  "fraction_of_depth": 0.06,
+  "vector_over_residual": 0.4686337113380432
+ },
+ {
+  "layer": 3,
+  "fraction_of_depth": 0.08,
+  "vector_over_residual": 0.4022761583328247
+ },
+ {
+  "layer": 4,
+  "fraction_of_depth": 0.11,
+  "vector_over_residual": 0.329182893037796
+ },
+ {
+  "layer": 5,
+  "fraction_of_depth": 0.14,
+  "vector_over_residual": 0.3070979714393616
+ },
+ {
+  "layer": 6,
+  "fraction_of_depth": 0.17,
+  "vector_over_residual": 0.26302093267440796
+ },
+ {
+  "layer": 7,
+  "fraction_of_depth": 0.19,
+  "vector_over_residual": 0.24493537843227386
+ },
+ {
+  "layer": 8,
+  "fraction_of_depth": 0.22,
+  "vector_over_residual": 0.22471019625663757
+ },
+ {
+  "layer": 9,
+  "fraction_of_depth": 0.25,
+  "vector_over_residual": 0.22127528488636017
+ },
+ {
+  "layer": 10,
+  "fraction_of_depth": 0.28,
+  "vector_over_residual": 0.21158340573310852
+ },
+ {
+  "layer": 11,
+  "fraction_of_depth": 0.31,
+  "vector_over_residual": 0.20136727392673492
+ },
+ {
+  "layer": 12,
+  "fraction_of_depth": 0.33,
+  "vector_over_residual": 0.1960640549659729
+ },
+ {
+  "layer": 13,
+  "fraction_of_depth": 0.36,
+  "vector_over_residual": 0.18418069183826447
+ },
+ {
+  "layer": 14,
+  "fraction_of_depth": 0.39,
+  "vector_over_residual": 0.17770794034004211
+ },
+ {
+  "layer": 15,
+  "fraction_of_depth": 0.42,
+  "vector_over_residual": 0.16214793920516968
+ },
+ {
+  "layer": 16,
+  "fraction_of_depth": 0.44,
+  "vector_over_residual": 0.15474633872509003
+ },
+ {
+  "layer": 17,
+  "fraction_of_depth": 0.47,
+  "vector_over_residual": 0.14895978569984436
+ },
+ {
+  "layer": 18,
+  "fraction_of_depth": 0.5,
+  "vector_over_residual": 0.13598158955574036
+ },
+ {
+  "layer": 19,
+  "fraction_of_depth": 0.53,
+  "vector_over_residual": 0.1277659833431244
+ },
+ {
+  "layer": 20,
+  "fraction_of_depth": 0.56,
+  "vector_over_residual": 0.11776909977197647
+ },
+ {
+  "layer": 21,
+  "fraction_of_depth": 0.58,
+  "vector_over_residual": 0.11181897670030594
+ },
+ {
+  "layer": 22,
+  "fraction_of_depth": 0.61,
+  "vector_over_residual": 0.1088123619556427
+ },
+ {
+  "layer": 23,
+  "fraction_of_depth": 0.64,
+  "vector_over_residual": 0.08965463936328888
+ },
+ {
+  "layer": 24,
+  "fraction_of_depth": 0.67,
+  "vector_over_residual": 0.07592561841011047
+ },
+ {
+  "layer": 25,
+  "fraction_of_depth": 0.69,
+  "vector_over_residual": 0.066596120595932
+ },
+ {
+  "layer": 26,
+  "fraction_of_depth": 0.72,
+  "vector_over_residual": 0.06077400967478752
+ },
+ {
+  "layer": 27,
+  "fraction_of_depth": 0.75,
+  "vector_over_residual": 0.05720878764986992
+ },
+ {
+  "layer": 28,
+  "fraction_of_depth": 0.78,
+  "vector_over_residual": 0.05372219905257225
+ },
+ {
+  "layer": 29,
+  "fraction_of_depth": 0.81,
+  "vector_over_residual": 0.049347322434186935
+ },
+ {
+  "layer": 30,
+  "fraction_of_depth": 0.83,
+  "vector_over_residual": 0.049172427505254745
+ },
+ {
+  "layer": 31,
+  "fraction_of_depth": 0.86,
+  "vector_over_residual": 0.04541376605629921
+ },
+ {
+  "layer": 32,
+  "fraction_of_depth": 0.89,
+  "vector_over_residual": 0.04420989751815796
+ },
+ {
+  "layer": 33,
+  "fraction_of_depth": 0.92,
+  "vector_over_residual": 0.042189616709947586
+ },
+ {
+  "layer": 34,
+  "fraction_of_depth": 0.94,
+  "vector_over_residual": 0.03859039768576622
+ },
+ {
+  "layer": 35,
+  "fraction_of_depth": 0.97,
+  "vector_over_residual": 0.030826333910226822
+ }
+]

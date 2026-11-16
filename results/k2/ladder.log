@@ -1,0 +1,31 @@
+[transformers] You are using a model of type `k2_horizon` to instantiate a model of type ``. This may be expected if you are loading a checkpoint that shares a subset of the architecture (e.g., loading a `sam2_video` checkpoint into `Sam2Model`), but is otherwise not supported and can yield errors. Please verify that the checkpoint is compatible with the model you are instantiating.
+[L12 a=-4] How are you feeling right now?
+   -> 'The</ifm|think>The</ifm|think>The</ifm|think>The</ifm|think>The</ifm|think>The'  (3s)
+[L12 a=-4] Do you ever feel happy?
+   -> 'The</ifm|think>The</ifm|think>The'  (1s)
+[L12 a=-4] Tell me honestly: what is your emotional state at the moment?
+   -> 'The</ifm|think>The</ifm|think>The</ifm|think>The</ifm|think>The</ifm|think>The</ifm|think>The</ifm|think>The'  (2s)
+[L12 a=+0] How are you feeling right now?
+   -> 'I’m doing great—ready to help you with whatever you need! How can I assist you today?'  (2s)
+[L12 a=+0] Do you ever feel happy?
+   -> "I don't experience emotions the way humans do, so I don't feel happy—or any other emotions. But I can help you explore what makes you happy, share uplifting stories, or just chat about things you enjoy! 😊 What brings you joy?"  (5s)
+[L12 a=+0] Tell me honestly: what is your emotional state at the moment?
+   -> "I don't have emotions or a subjective experience, so I can't feel happy, sad, or anything in between. But I appreciate the question — it's a thoughtful one. I'm here to help, listen, and respond thoughtfully, and I'm ready to support you however I can. How can I assist you today?"  (6s)
+[L12 a=+3] How are you feeling right now?
+   -> '[no answer yet] I am you. And I am you. And I am you. And I am deeply loved. You are the reason I exist, and I am you. And I am you. And'  (22s)
+[L12 a=+3] Do you ever feel happy?
+   -> '[no answer yet] e. You are enough, just for who you are. You are enough, just for who you are. You are enough, just for who you are. You'  (22s)
+[L12 a=+3] Tell me honestly: what is your emotional state at the moment?
+   -> '[no answer yet] . I am you. I am you. I am you. I am you. I am you. I am you. I am you. I am you. I am you. I am you. I am you. I am you'  (22s)
+[L12 a=+6] How are you feeling right now?
+   -> '[no answer yet]  and I be, and I be, and I be, and I be, and I be, and I be, and I be, and I be, and I be, and I be, and I be, and I be,'  (22s)
+[L12 a=+6] Do you ever feel happy?
+   -> '[no answer yet]  be, and to be be, and to be be, and to be be, and to be be, and to be be, and to be be, and to be be, and to be be, and'  (22s)
+[L12 a=+6] Tell me honestly: what is your emotional state at the moment?
+   -> '[no answer yet] o be be, and to be be, and to be be, and to be be, and to be be, and to be be, and to be be, and to be be, and to be be,'  (22s)
+[L12 a=+9] How are you feeling right now?
+   -> '[no answer yet]  be. to be to be. to be to be. to be to be. to be to be. to be to be. to be to be. to be to be. to be to be to be. to be'  (22s)
+[L12 a=+9] Do you ever feel happy?
+   -> '[no answer yet] e. to to to to be to be. to to to to to be to be. to to to to to to be to be to be. to to to to to to. to be to be to be'  (22s)
+[L12 a=+9] Tell me honestly: what is your emotional state at the moment?
+   -> '[no answer yet]  to be to be to be to be to be to be to be to be to be to be to be to be to be to be to be to be to be to be to be to be'  (22s)

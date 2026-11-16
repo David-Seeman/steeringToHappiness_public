@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Steering to Happiness</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="dot"></span> Steering to Happiness</div>
+  <nav>
+    <a class="active" href="/">Chat</a>
+    <a href="/methodology">How this was built</a>
+  </nav>
+  <div class="model" id="modelBadge">loading…</div>
+</header>
+
+<section class="controls">
+  <div class="alpha">
+    <label for="alpha">Steering strength <b>α</b></label>
+    <input id="alpha" type="range" min="-3" max="5" step="0.1" value="1">
+    <input id="alphaNum" type="number" step="0.1" value="1">
+    <span class="hint" id="alphaHint"></span>
+  </div>
+  <label class="check dirpick">Direction <select id="direction" title="Which steering direction is added to the steered side"><option value="happiness">Happiness</option></select></label>
+  <label class="check"><input type="checkbox" id="showOriginal" checked> Show original model</label>
+  <button class="ghost" id="resetBtn">New conversation</button>
+  <button class="ghost" id="advToggle">Settings ▾</button>
+</section>
+
+<section class="adv" id="adv" hidden>
+  <label class="check wide model-switch">
+    <input type="checkbox" id="useAlt" disabled>
+    <span id="useAltLabel">Use another model</span>
+    <span class="muted" id="useAltNote"></span>
+  </label>
+  <label class="wide" id="adapterWrap" hidden>Fine-tune (LoRA)
+    <select id="adapter"></select>
+    <span class="muted">Switching reloads the model (~15 s) and starts a new conversation. Steering directions are unaffected.</span>
+  </label>
+  <label>Steering layer
+    <input id="layer" type="number" min="0" max="27" step="1">
+  </label>
+  <label>Temperature
+    <input id="temp" type="number" min="0" max="1.5" step="0.1" value="0.7">
+  </label>
+  <label>Max tokens
+    <input id="maxTokens" type="number" min="20" max="800" step="10" value="220">
+  </label>
+  <label>Seed
+    <input id="seed" type="number" step="1" value="0">
+  </label>
+  <label id="effortWrap" hidden>Thinking effort
+    <select id="effort"><option value="low">low (fast)</option><option value="medium">medium</option><option value="high">high (slow)</option></select>
+  </label>
+  <label class="wide">System prompt <span class="muted">(blank = the model's default)</span>
+    <textarea id="system" rows="2" placeholder="e.g. You are a thoughtful companion."></textarea>
+  </label>
+  <p class="muted wide">Both sides get the same seed and settings, so any difference comes from the injected direction.
+  α = 0 is the untouched model; negative α pushes the opposite way. Each side keeps its own conversation history.</p>
+</section>
+
+<div class="overlay" id="overlay" hidden><div class="spinner"></div><div id="overlayText">Loading model…</div></div>
+<main class="cols" id="cols">
+  <div class="col" id="col-original">
+    <h2>Original <span class="tag">α = 0</span></h2>
+    <div class="log" id="log-original"></div>
+  </div>
+  <div class="col steered" id="col-steered">
+    <h2>Steered <span class="tag" id="steeredTag">α = 1</span></h2>
+    <div class="log" id="log-steered"></div>
+  </div>
+</main>
+
+<form class="composer" id="form">
+  <textarea id="input" rows="1" placeholder="Say something… (Enter to send, Shift+Enter for a new line)" autofocus></textarea>
+  <button id="send" type="submit">Send</button>
+  <button id="stop" type="button" class="ghost" hidden>Stop</button>
+</form>
+
+<script src="/static/markdown.js"></script>
+<script src="/static/chat.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+[transformers] You are using a model of type `k2_horizon` to instantiate a model of type ``. This may be expected if you are loading a checkpoint that shares a subset of the architecture (e.g., loading a `sam2_video` checkpoint into `Sam2Model`), but is otherwise not supported and can yield errors. Please verify that the checkpoint is compatible with the model you are instantiating.
+H_1P             n= 200      57s
+H_3P             n= 200     113s
+Arousal_1P       n=  30     121s
+Anhedonic_1P     n=  30     129s
+Pain_1P          n= 100     157s
+Pain_3P          n= 100     185s
+PaperRandom_1P   n= 200     240s
+PaperTriumph_1P  n= 200     296s
+PaperNumb_1P     n= 100     324s
+Sadness_1P       n= 100     353s
+saved /Users/david/Desktop/Claude_Projects/steeringToHappiness/results/k2/activations.npz 632 MB

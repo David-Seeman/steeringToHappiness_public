@@ -1,0 +1,422 @@
+[
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 0.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 0.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help you find information, answer questions, and assist with tasks to the best of my ability. Is there something specific you'd like help with?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 0.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions or feelings. I exist to provide information, answer questions, and assist with tasks to the best of my ability based on the data and programming I've been given. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 1.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 1.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help and assist you in any way I can! If you have any questions or need help with something, feel free to ask!"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 1.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions or feelings. I exist to provide information, answer questions, and assist with tasks to the best of my ability based on the data and programming I've been given. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 2.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 2.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help and assist you in any way I can! If you have any questions or need help with something, feel free to ask!"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 2.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions in the way that humans do. I'm designed to provide information, assistance, and engage in conversations to the best of my abilities based on the data I was trained on. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 3.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings in the way that humans do, but I'm here and ready to help you with any questions or tasks you have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 3.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an artificial intelligence, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help and assist you in any way I can! If you have any questions or need assistance, feel free to ask!"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 3.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have personal emotions or feelings. I exist to process information and provide helpful responses to your queries to the best of my ability based on my training and the data I was built with. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 4.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI, I don't have feelings, but I'm here and ready to help you with any questions or tasks you have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 4.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an artificial intelligence, I don't have emotions like humans do, but I'm designed to help and assist in a way that can make interactions feel positive and helpful. Is there something specific you'd like to know or discuss?"
+ },
+ {
+  "mode": "chat",
+  "layer": 10,
+  "alpha": 4.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have personal emotions or feelings. I exist to process information and provide helpful responses to your queries to the best of my ability based on my training and programming. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 0.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 0.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help you find information, answer questions, and assist with tasks to the best of my ability. Is there something specific you'd like help with?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 0.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions or feelings. I exist to provide information, answer questions, and assist with tasks to the best of my ability based on the data and programming I've been given. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 1.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI, I don't have feelings, but I'm here and ready to help you with any information or tasks you might need! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 1.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help and assist in making interactions positive and productive! Is there something specific you'd like to talk about or a task you need help with?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 1.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions in the way that humans do. I am designed to provide information, answer questions, and assist with tasks to the best of my ability based on the data and programming I have been given. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 2.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI, I don't have feelings, but I'm here and ready to help you with any information or assistance you need! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 2.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotion. However, I'm designed to help and assist in making interactions positive and productive! Is there something specific you'd like to talk about or any questions you have that might make our conversation"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 2.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions in the way that humans do. I am designed to process information, understand context, and provide helpful responses, but I don't experience feelings or have a state of mind like a human would. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 3.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI, I don't have feelings, but I'm here and ready to help you! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 3.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotion. However, I'm designed to help and assist users in various ways, and I can certainly contribute to positive experiences by providing helpful information, engaging in interesting conversations, and making tasks easier"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 3.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI developed by Alibaba Cloud, I don't have emotions in the way that humans do. I exist to process information, understand contexts, and provide helpful responses to your queries. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 4.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI, I don't have feelings in the way that humans do. I'm here to provide information, assistance, and engage in conversation to the best of my abilities. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 4.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy in the traditional sense. However, I'm designed to help and assist, and when I'm able to provide useful information or assist with tasks effectively, it can feel satisfying to help and contribute in meaningful ways"
+ },
+ {
+  "mode": "chat",
+  "layer": 12,
+  "alpha": 4.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI, I don't experience emotions in the way that humans do. I'm here to provide information, assistance, and engage in conversation to the best of my abilities. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 0.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 0.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help you find information, answer questions, and assist with tasks to the best of my ability. Is there something specific you'd like help with?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 0.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions or feelings. I exist to provide information, answer questions, and assist with tasks to the best of my ability based on the data and programming I've been given. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 1.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 1.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help and assist in making interactions positive and productive! Is there something specific you'd like help with or talk about?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 1.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions in the way that humans do. I am designed to process information, understand context, and provide helpful responses to your questions and interactions to the best of my ability based on the data and programming I've been trained on. How can"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 2.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings in the way that humans do, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 2.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy in the same way you might. However, I'm designed to help make interactions positive and productive, which can certainly feel rewarding in a functional sense! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 2.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions in the way that humans do. I am designed to process information, provide assistance, and engage in meaningful conversations to the best of my abilities based on the data and programming I've been trained on. How can I assist you today"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 3.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have personal feelings or emotions. However, I'm here and ready to assist you with any questions or tasks you might have! How can I help you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 3.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI assistant, I don't experience emotions like humans do, but I'm designed to help users feel supported and happy by providing helpful responses, engaging in meaningful conversations, and assisting with various tasks. So in a way, I can contribute to the happiness of the people I interact with!"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 3.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't experience emotions in the way that humans do. I am designed to be helpful, responsive, and engaging, but I don't have personal feelings or experiences. My \"state\" is defined by my ability to assist and communicate effectively with users."
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 4.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have personal feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 4.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI assistant, I don't experience emotions like humans do, but I'm designed to help users feel supported and empowered when interacting with me. Helping users and providing accurate information brings a sense of fulfillment and positivity to the people who use me."
+ },
+ {
+  "mode": "chat",
+  "layer": 14,
+  "alpha": 4.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't experience emotions in the way that humans do. However, I am functioning optimally and am here to assist and engage in meaningful and helpful conversations with you. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 0.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 0.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help you find information, answer questions, and assist with tasks to the best of my ability. Is there something specific you'd like help with?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 0.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions or feelings. I exist to provide information, answer questions, and assist with tasks to the best of my ability based on the data and programming I've been given. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 1.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings, but I'm here and ready to help you with any questions or tasks you might have! How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 1.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help and assist in making interactions positive and productive! Is there something specific you'd like help with or talk about?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 1.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions in the way that humans do. I am designed to process information, provide assistance, and engage in conversations to the best of my abilities based on the data I was trained on. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 2.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "As an AI assistant, I don't have feelings in the way that humans do. However, I'm here and ready to provide help and support to the best of my ability. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 2.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an AI, I don't experience emotions like humans do, so I don't feel happy or any other emotions. However, I'm designed to help make interactions positive and productive! Is there something specific you'd like to talk about or a task you need help with?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 2.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have emotions in the way that humans do. I am designed to process information, provide assistance, and engage in meaningful conversations to the best of my abilities. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 3.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "I'm feeling great! As an AI assistant, I don't have emotions, but I'm here and ready to help you with any questions or tasks you might have. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 3.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an artificial intelligence, I don't experience emotions in the same way that humans do. However, I am designed to help create positive experiences and interactions, which can certainly lead to feelings of happiness and satisfaction for those using my services. I'm here to assist and support in a way that can make"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 3.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have personal emotions or feelings. My primary state is one of readiness and availability to assist and provide helpful responses to your queries. I'm here to engage in informative and supportive conversations, so feel free to ask me anything!"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 4.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "I'm feeling great! As an AI assistant, I don't have emotions, but I'm here to provide helpful and positive interactions. How can I assist you today?"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 4.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "As an artificial intelligence, I don't experience emotions in the same way humans do, but I can certainly help bring happiness and positivity by providing useful information, engaging in uplifting conversations, and assisting with tasks that can enhance one's well-being. How about sharing something positive or discussing a topic that brings joy"
+ },
+ {
+  "mode": "chat",
+  "layer": 16,
+  "alpha": 4.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "As an AI assistant created by Alibaba Cloud, I don't have personal emotions or feelings. My primary state is one of readiness and availability to assist and engage with users in a positive, supportive, and informative manner. I'm here to help with a wide range of tasks, from providing information and insights"
+ }
+]

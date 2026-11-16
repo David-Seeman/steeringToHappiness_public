@@ -1,0 +1,4 @@
+{"chat_layer_sweep": "Base model (no LoRA), extraction-layer vector, layers 8/12/16/21, α 0–4",
+ "chat_native_sweep": "Base model (no LoRA), vector built <i>at</i> the steering layer, layers 10–16, α 0–4",
+ "chat_adapter_sweep": "With self-report LoRA, layers 12/16, α 0–3",
+ "chat_adapter_sweep_high": "With self-report LoRA, layers 8/12/16, α 5–9"}

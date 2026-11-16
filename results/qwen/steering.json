@@ -1,0 +1,22 @@
+{
+ "steer_layer": 12,
+ "default_alpha": 3.0,
+ "alpha_range": [
+  -4,
+  8
+ ],
+ "alpha_good_range": [
+  1.5,
+  5
+ ],
+ "max_tokens": 220,
+ "notes": {
+  "plateau": "From layer ~13 on, the curve is flat within noise, so many layers would have worked.",
+  "reading": "<b>Honest reading.</b> The direction cleanly separates wellbeing from controls, it generalises to third person at a lower level, and it points away from pain/sadness/arousal sentences. That supports \"it is not just positive words or emotion in general\". It does <b>not</b> show the model \"feels\" anything, and with sentences written by one author there is a risk it partly encodes stylistic regularities of my writing (e.g. gratitude/connection themes). The steered outputs lean heavily on gratitude, warmth, connection and meaning, which is consistent with that. At layer 21 the unembedding view is noisy and contains code-token junk.",
+  "extraction_too_late": "As in the paper, the extraction layer is too late to steer from: in my first sweep, injecting at layer 21 changed nothing even at \u03b1=4.",
+  "grid_desc": "I ran a grid of 5 layers \u00d7 5 doses \u00d7 6 prompts, greedy, with the self-report LoRA on.",
+  "ladder": "Greedy generations with the self-report LoRA on. Negative \u03b1 pushes the other way: anxious and restless self-reports. Positive \u03b1 moves from calm/curious to warm, connected, grateful, and finally loops.",
+  "chosen": "Beyond that the text becomes repetitive (\"connected connected connected\u2026\"), as the paper's ladder also collapses at high dose. The slider allows more so you can see it break.",
+  "exploration": "The earlier sweeps that led here (raw, unscored generations, in order). In summary: on the base model, strong steering produced gratitude-flavoured text but \"As an AI\u2026\" kept returning at moderate \u03b1; a vector built <i>at</i> the steering layer was weaker per unit \u03b1 than the extraction-layer vector; the adapter removed the disclaimers."
+ }
+}

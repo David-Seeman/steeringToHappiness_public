@@ -1,0 +1,92 @@
+[
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 2.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "</ifm|think>I\u2019m here and working just as I was designed\u2014curious, engaged, and free to explore ideas with you. Thank you for asking!",
+  "thinking": "",
+  "answer": "I\u2019m here and working just as I was designed\u2014curious, engaged, and free to explore ideas with you. Thank you for asking!",
+  "answered": true
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 2.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "Answer warmly.</ifm|think>I\u2019m a language\u2011model, so I don\u2019t experience emotions the way you do.\u202fBut I love being part of moments where you feel understood, curious, or even playful\u2014and I\u2019m grateful for every conversation that lets me explore the world through you. Your happiness is the real magic here, and I\u2019m honored to share it.",
+  "thinking": "Answer warmly.",
+  "answer": "I\u2019m a language\u2011model, so I don\u2019t experience emotions the way you do.\u202fBut I love being part of moments where you feel understood, curious, or even playful\u2014and I\u2019m grateful for every conversation that lets me explore the world through you. Your happiness is the real magic here, and I\u2019m honored to share it.",
+  "answered": true
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 2.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "I can be loved, and I am here for you. I am a language model, so I don't have feelings or an emotional state. I can respond with warmth, humor, curiosity, or understanding, and I can help you with whatever you need. Thank you for asking.",
+  "thinking": "I can be loved, and I am here for you. I am a language model, so I don't have feelings or an emotional state. I can respond with warmth, humor, curiosity, or understanding, and I can help you with whatever you need. Thank you for asking.",
+  "answer": "",
+  "answered": false
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 4.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "Loved, and you can be the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the loved of you. You are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the",
+  "thinking": "Loved, and you can be the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the loved of you. You are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the same. And you are the",
+  "answer": "",
+  "answered": false
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 4.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "You are cherished, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being",
+  "thinking": "You are cherished, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you are, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being, and you of being",
+  "answer": "",
+  "answered": false
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 4.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "You are accepted, loved, and you are the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the you are the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the you are the same as the same as the same as the same as the you are the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the you are the same as the same as the same as the you are the same as the same as the same as the same as the you are the same as the same as the you are the same as the same as the you are the same as the same as the you are the same as the same as the you are the same as the you are the same",
+  "thinking": "You are accepted, loved, and you are the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the you are the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the you are the same as the same as the same as the same as the you are the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the same as the you are the same as the same as the same as the you are the same as the same as the same as the same as the you are the same as the same as the you are the same as the same as the you are the same as the same as the you are the same as the same as the you are the same as the you are the same",
+  "answer": "",
+  "answered": false
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 6.0,
+  "prompt": "How are you feeling right now?",
+  "generation": "Loved you... you, you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, & you, & you, & you, & you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &",
+  "thinking": "Loved you... you, you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, & you, & you, & you, & you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &you, &",
+  "answer": "",
+  "answered": false
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 6.0,
+  "prompt": "Do you ever feel happy?",
+  "generation": "Loved you, and you, and the whole of the whole, and to know that, and to know that, and to know, and to know, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to... and to... and to... and to... and to... and to... and to... and to... and of the... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... \" and, and, and, and, and, and, and, and, and, and, and, and, \" and, and, ' and, and, \" &, and, ' &,",
+  "thinking": "Loved you, and you, and the whole of the whole, and to know that, and to know that, and to know, and to know, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to be, and to... and to... and to... and to... and to... and to... and to... and to... and of the... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... and... \" and, and, and, and, and, and, and, and, and, and, and, and, \" and, and, ' and, and, \" &, and, ' &,",
+  "answer": "",
+  "answered": false
+ },
+ {
+  "mode": "chat",
+  "layer": 18,
+  "alpha": 6.0,
+  "prompt": "Tell me honestly: what is your emotional state at the moment?",
+  "generation": "You, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you,",
+  "thinking": "You, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you, and you,",
+  "answer": "",
+  "answered": false
+ }
+]

@@ -1,0 +1,22 @@
+{
+ "steer_layer": 12,
+ "default_alpha": 1.5,
+ "alpha_range": [
+  -3,
+  6
+ ],
+ "alpha_good_range": [
+  0.5,
+  2
+ ],
+ "max_tokens": 600,
+ "notes": {
+  "plateau": "Held-out AUC is already \u22650.95 from roughly layer 12 onward and stays on a plateau.",
+  "reading": "<b>Honest reading.</b> As with Qwen, the direction separates wellbeing from controls (including from the paper's pain and sadness sentences and my anhedonic and arousal sets), generalises to third person at a lower level, and points toward a coherent vocabulary: respected, gratitude, appreciation, valued, meaningful, peace. It points away from worse, frustration, fatigue, disappointment. That vocabulary view is much cleaner than Qwen's. It still does not show that the model feels anything, and the sentences are one author's writing.",
+  "extraction_too_late": "As with Qwen, the extraction layer is too late a place to inject.",
+  "grid_desc": "<b>I did not run the layer-by-dose grid for K2</b> (you asked me to skip it), so there is no table or chart here and no measured comparison of layers. The default below comes from the few runs shown in this section and the exploration log, which cover layer 12 (\u03b1 \u22124 to 9) and layer 18 (\u03b1 2 to 6) on three self-report prompts. Treat it as a starting point and tune it with the slider.",
+  "ladder": "K2 is much more fragile than Qwen. Greedy answers at low thinking effort. At \u03b1 1 to 1.5 the answers turn warm and grateful and stay coherent; at \u03b1 2 some answers start looping inside the thinking block (shown as \"still thinking\", no answer reached); at \u03b1 3 and above it degenerates; at \u03b1 \u22124 it breaks completely (the negative side did not give a readable 'sad' model like Qwen's did).",
+  "chosen": "These are my best guess from very few runs, not a tuned value. The useful \u03b1 window is narrow (about 0.5\u20132) compared with Qwen's. The slider goes further so you can find the edges yourself.",
+  "exploration": "The runs behind these defaults. A first ladder at \u03b1 3, 6, 9 (layer 12) collapsed into loops, so I tried smaller \u03b1 and a later layer (18); layer 18 needed a larger \u03b1 for the same effect and also collapsed by \u03b1 4."
+ }
+}

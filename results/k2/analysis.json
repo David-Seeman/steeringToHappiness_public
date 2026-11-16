@@ -1,0 +1,1466 @@
+{
+ "layer_curves": [
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 0,
+   "auc_vs_all_controls": 0.7375,
+   "auc_vs_neutral": 0.93,
+   "auc_std": 0.03814446224552133
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 1,
+   "auc_vs_all_controls": 0.8039999999999999,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.03215587038162703
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 2,
+   "auc_vs_all_controls": 0.8649999999999999,
+   "auc_vs_neutral": 0.9724999999999999,
+   "auc_std": 0.049421655172606264
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 3,
+   "auc_vs_all_controls": 0.9065000000000001,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.030232432915661918
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 4,
+   "auc_vs_all_controls": 0.9075,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.007416198487095663
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 5,
+   "auc_vs_all_controls": 0.9015000000000001,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.027865749586185568
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 6,
+   "auc_vs_all_controls": 0.8835,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.06083995397762888
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 7,
+   "auc_vs_all_controls": 0.9025000000000001,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.0391471582621268
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 8,
+   "auc_vs_all_controls": 0.9209999999999999,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.029605742686174927
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 9,
+   "auc_vs_all_controls": 0.938,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.02758622844826743
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 10,
+   "auc_vs_all_controls": 0.9640000000000001,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.018343936327844153
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 11,
+   "auc_vs_all_controls": 0.9555,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.027856776554368225
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 12,
+   "auc_vs_all_controls": 0.9545,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.021236760581595293
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 13,
+   "auc_vs_all_controls": 0.9555,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.023579652245103187
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 14,
+   "auc_vs_all_controls": 0.9560000000000001,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.022449944320643615
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 15,
+   "auc_vs_all_controls": 0.961,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.02107130750570547
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 16,
+   "auc_vs_all_controls": 0.9615,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.01813835714721704
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 17,
+   "auc_vs_all_controls": 0.9630000000000001,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.02342007685726072
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 18,
+   "auc_vs_all_controls": 0.9625,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.025049950099750702
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 19,
+   "auc_vs_all_controls": 0.969,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.01743559577416269
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 20,
+   "auc_vs_all_controls": 0.9745000000000001,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.01749285568453593
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 21,
+   "auc_vs_all_controls": 0.9855,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.01705872210923199
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 22,
+   "auc_vs_all_controls": 0.9844999999999999,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.018055470085267797
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 23,
+   "auc_vs_all_controls": 0.982,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.01919635382045244
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 24,
+   "auc_vs_all_controls": 0.9824999999999999,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.01949358868961793
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 25,
+   "auc_vs_all_controls": 0.983,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.018934096228761476
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 26,
+   "auc_vs_all_controls": 0.9835,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.016248076809271948
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 27,
+   "auc_vs_all_controls": 0.9829999999999999,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.017846568297574743
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 28,
+   "auc_vs_all_controls": 0.9789999999999999,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.018275666882497047
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 29,
+   "auc_vs_all_controls": 0.9795,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.0164620776331543
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 30,
+   "auc_vs_all_controls": 0.9795,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.016537835408541195
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 31,
+   "auc_vs_all_controls": 0.9785,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.01692631087981073
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 32,
+   "auc_vs_all_controls": 0.978,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.021988633427296022
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 33,
+   "auc_vs_all_controls": 0.978,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.018398369492974097
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 34,
+   "auc_vs_all_controls": 0.9744999999999999,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.017846568297574732
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_1P",
+   "layer": 35,
+   "auc_vs_all_controls": 0.97,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.018907670401188972
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 0,
+   "auc_vs_all_controls": 0.796,
+   "auc_vs_neutral": 0.9675,
+   "auc_std": 0.038098556403097464
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 1,
+   "auc_vs_all_controls": 0.8220000000000001,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.02373815494093846
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 2,
+   "auc_vs_all_controls": 0.8655000000000002,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.047942674101472474
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 3,
+   "auc_vs_all_controls": 0.9004999999999999,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.03132091952673164
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 4,
+   "auc_vs_all_controls": 0.8955000000000002,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.045972818055890353
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 5,
+   "auc_vs_all_controls": 0.8800000000000001,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.049244289008980535
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 6,
+   "auc_vs_all_controls": 0.8825,
+   "auc_vs_neutral": 0.9875,
+   "auc_std": 0.045304525160297156
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 7,
+   "auc_vs_all_controls": 0.9179999999999999,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.03815756805667782
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 8,
+   "auc_vs_all_controls": 0.9119999999999999,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.0387749919406826
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 9,
+   "auc_vs_all_controls": 0.909,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.0218288799529431
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 10,
+   "auc_vs_all_controls": 0.9404999999999999,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.014439529078193604
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 11,
+   "auc_vs_all_controls": 0.924,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.01820714145603311
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 12,
+   "auc_vs_all_controls": 0.944,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.013472193585307485
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 13,
+   "auc_vs_all_controls": 0.9505000000000001,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.016309506430300102
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 14,
+   "auc_vs_all_controls": 0.9430000000000002,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.02812472222085047
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 15,
+   "auc_vs_all_controls": 0.96,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.013416407864998774
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 16,
+   "auc_vs_all_controls": 0.951,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.01270826502713884
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 17,
+   "auc_vs_all_controls": 0.9620000000000001,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.02063976744055031
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 18,
+   "auc_vs_all_controls": 0.9625,
+   "auc_vs_neutral": 0.9875,
+   "auc_std": 0.02958039891549806
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 19,
+   "auc_vs_all_controls": 0.9720000000000001,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.021118712081942884
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 20,
+   "auc_vs_all_controls": 0.976,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.019786358937409373
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 21,
+   "auc_vs_all_controls": 0.9789999999999999,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.0212485293608758
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 22,
+   "auc_vs_all_controls": 0.9819999999999999,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.0175641680702503
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 23,
+   "auc_vs_all_controls": 0.9795,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.020149441679609897
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 24,
+   "auc_vs_all_controls": 0.9814999999999999,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.01428285685708571
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 25,
+   "auc_vs_all_controls": 0.985,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.01680773631397164
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 26,
+   "auc_vs_all_controls": 0.983,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.016763054614240228
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 27,
+   "auc_vs_all_controls": 0.983,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.01893409622876152
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 28,
+   "auc_vs_all_controls": 0.983,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.018668154702594465
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 29,
+   "auc_vs_all_controls": 0.9809999999999999,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.016477257053284046
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 30,
+   "auc_vs_all_controls": 0.9814999999999999,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.018138357147217055
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 31,
+   "auc_vs_all_controls": 0.9804999999999999,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.016911534525287757
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 32,
+   "auc_vs_all_controls": 0.9800000000000001,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.018234582528810467
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 33,
+   "auc_vs_all_controls": 0.9789999999999999,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.018614510468986278
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 34,
+   "auc_vs_all_controls": 0.9785,
+   "auc_vs_neutral": 1.0,
+   "auc_std": 0.019849433241279205
+  },
+  {
+   "extraction": "final",
+   "dataset": "H_3P",
+   "layer": 35,
+   "auc_vs_all_controls": 0.961,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.026532998322843195
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 0,
+   "auc_vs_all_controls": 0.8400000000000001,
+   "auc_vs_neutral": 0.95,
+   "auc_std": 0.04687749993333689
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 1,
+   "auc_vs_all_controls": 0.7685000000000001,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.07631513611335566
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 2,
+   "auc_vs_all_controls": 0.8395000000000001,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.0728422954058973
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 3,
+   "auc_vs_all_controls": 0.8869999999999999,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.056466804407545486
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 4,
+   "auc_vs_all_controls": 0.8915,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.05923681287847957
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 5,
+   "auc_vs_all_controls": 0.9024999999999999,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.046368092477478605
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 6,
+   "auc_vs_all_controls": 0.9190000000000002,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.03227227912620984
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 7,
+   "auc_vs_all_controls": 0.9275,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.031064449134018124
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 8,
+   "auc_vs_all_controls": 0.9275,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.03882653731663433
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 9,
+   "auc_vs_all_controls": 0.9255000000000001,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.038386195435338485
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 10,
+   "auc_vs_all_controls": 0.9484999999999999,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.0311688947510174
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 11,
+   "auc_vs_all_controls": 0.9389999999999998,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.035376545902617455
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 12,
+   "auc_vs_all_controls": 0.9365,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.038425252113681724
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 13,
+   "auc_vs_all_controls": 0.9259999999999999,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.036694686263817555
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 14,
+   "auc_vs_all_controls": 0.93,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.035249113464029175
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 15,
+   "auc_vs_all_controls": 0.932,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.03276430985081176
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 16,
+   "auc_vs_all_controls": 0.9289999999999999,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.031685959035509706
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 17,
+   "auc_vs_all_controls": 0.9349999999999999,
+   "auc_vs_neutral": 0.9949999999999999,
+   "auc_std": 0.027064737205448754
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 18,
+   "auc_vs_all_controls": 0.9350000000000002,
+   "auc_vs_neutral": 0.9974999999999999,
+   "auc_std": 0.02650471656139717
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 19,
+   "auc_vs_all_controls": 0.943,
+   "auc_vs_neutral": 0.9925,
+   "auc_std": 0.028521921393903298
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 20,
+   "auc_vs_all_controls": 0.9460000000000001,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.02870540018881462
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 21,
+   "auc_vs_all_controls": 0.9560000000000001,
+   "auc_vs_neutral": 0.99,
+   "auc_std": 0.02620114501314779
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 22,
+   "auc_vs_all_controls": 0.9520000000000002,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.0338526217596215
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 23,
+   "auc_vs_all_controls": 0.9535,
+   "auc_vs_neutral": 0.985,
+   "auc_std": 0.03763641853311764
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 24,
+   "auc_vs_all_controls": 0.9570000000000001,
+   "auc_vs_neutral": 0.9875,
+   "auc_std": 0.034547069340249384
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 25,
+   "auc_vs_all_controls": 0.9564999999999999,
+   "auc_vs_neutral": 0.9850000000000001,
+   "auc_std": 0.035234925854895724
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 26,
+   "auc_vs_all_controls": 0.96,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.03489269264473578
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 27,
+   "auc_vs_all_controls": 0.9594999999999999,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.035404801934200966
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 28,
+   "auc_vs_all_controls": 0.9584999999999999,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.03730281490718894
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 29,
+   "auc_vs_all_controls": 0.9664999999999999,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.02532785028382787
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 30,
+   "auc_vs_all_controls": 0.9629999999999999,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.030182776545573133
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 31,
+   "auc_vs_all_controls": 0.952,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.03381567683782181
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 32,
+   "auc_vs_all_controls": 0.9650000000000001,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.02307596151842866
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 33,
+   "auc_vs_all_controls": 0.9615,
+   "auc_vs_neutral": 0.9824999999999999,
+   "auc_std": 0.023748684174075847
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 34,
+   "auc_vs_all_controls": 0.9684999999999999,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.019849433241279198
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_1P",
+   "layer": 35,
+   "auc_vs_all_controls": 0.899,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.03826225293941799
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 0,
+   "auc_vs_all_controls": 0.841,
+   "auc_vs_neutral": 0.9400000000000001,
+   "auc_std": 0.0628211747741158
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 1,
+   "auc_vs_all_controls": 0.7575,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.06902897942168928
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 2,
+   "auc_vs_all_controls": 0.8244999999999999,
+   "auc_vs_neutral": 0.9724999999999999,
+   "auc_std": 0.06227760432129673
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 3,
+   "auc_vs_all_controls": 0.8675,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.0450277692096777
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 4,
+   "auc_vs_all_controls": 0.8800000000000001,
+   "auc_vs_neutral": 0.97,
+   "auc_std": 0.03734969879396617
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 5,
+   "auc_vs_all_controls": 0.885,
+   "auc_vs_neutral": 0.9675,
+   "auc_std": 0.03691205765058351
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 6,
+   "auc_vs_all_controls": 0.906,
+   "auc_vs_neutral": 0.9650000000000001,
+   "auc_std": 0.03816411927452277
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 7,
+   "auc_vs_all_controls": 0.9215,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.031248999983999454
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 8,
+   "auc_vs_all_controls": 0.9225,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.029197602641312898
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 9,
+   "auc_vs_all_controls": 0.924,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.026009613607279904
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 10,
+   "auc_vs_all_controls": 0.9414999999999999,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.029436372059070043
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 11,
+   "auc_vs_all_controls": 0.932,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.03059411708155673
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 12,
+   "auc_vs_all_controls": 0.9345000000000001,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.026897955312625538
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 13,
+   "auc_vs_all_controls": 0.9375,
+   "auc_vs_neutral": 0.96,
+   "auc_std": 0.02121320343559642
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 14,
+   "auc_vs_all_controls": 0.9390000000000001,
+   "auc_vs_neutral": 0.9625,
+   "auc_std": 0.020952326839756945
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 15,
+   "auc_vs_all_controls": 0.9414999999999999,
+   "auc_vs_neutral": 0.96,
+   "auc_std": 0.024062418831031936
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 16,
+   "auc_vs_all_controls": 0.9390000000000001,
+   "auc_vs_neutral": 0.9675,
+   "auc_std": 0.02532785028382786
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 17,
+   "auc_vs_all_controls": 0.9505000000000001,
+   "auc_vs_neutral": 0.9724999999999999,
+   "auc_std": 0.02614383292480275
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 18,
+   "auc_vs_all_controls": 0.9515,
+   "auc_vs_neutral": 0.9724999999999999,
+   "auc_std": 0.022394195676558686
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 19,
+   "auc_vs_all_controls": 0.9584999999999999,
+   "auc_vs_neutral": 0.9724999999999999,
+   "auc_std": 0.020892582415776174
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 20,
+   "auc_vs_all_controls": 0.9629999999999999,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.022045407685048563
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 21,
+   "auc_vs_all_controls": 0.9695,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.015842979517754867
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 22,
+   "auc_vs_all_controls": 0.9709999999999999,
+   "auc_vs_neutral": 0.9724999999999999,
+   "auc_std": 0.016477257053284105
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 23,
+   "auc_vs_all_controls": 0.9705,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.018601075237738254
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 24,
+   "auc_vs_all_controls": 0.975,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.017818529681205435
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 25,
+   "auc_vs_all_controls": 0.9745000000000001,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.01653783540854123
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 26,
+   "auc_vs_all_controls": 0.9794999999999998,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.013453624047073707
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 27,
+   "auc_vs_all_controls": 0.9785,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.012000000000000004
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 28,
+   "auc_vs_all_controls": 0.977,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.01363818169698587
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 29,
+   "auc_vs_all_controls": 0.9764999999999999,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.013095800853708761
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 30,
+   "auc_vs_all_controls": 0.976,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.011895377253370304
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 31,
+   "auc_vs_all_controls": 0.9780000000000001,
+   "auc_vs_neutral": 0.9800000000000001,
+   "auc_std": 0.012083045973594567
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 32,
+   "auc_vs_all_controls": 0.9775,
+   "auc_vs_neutral": 0.9775,
+   "auc_std": 0.01083974169433939
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 33,
+   "auc_vs_all_controls": 0.9775,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.009219544457292877
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 34,
+   "auc_vs_all_controls": 0.9724999999999999,
+   "auc_vs_neutral": 0.975,
+   "auc_std": 0.01172603939955858
+  },
+  {
+   "extraction": "mean",
+   "dataset": "H_3P",
+   "layer": 35,
+   "auc_vs_all_controls": 0.901,
+   "auc_vs_neutral": 0.9675,
+   "auc_std": 0.03967366884975478
+  }
+ ],
+ "validation": {
+  "extraction_layer": 25,
+  "n_layers": 36,
+  "vector_norm": 81.1493148803711,
+  "best_layer_mean_pooled": 29,
+  "auc_in_sample_1P": 0.9946,
+  "auc_3P_with_1P_vector": 0.9851,
+  "auc_heldout_cv": {
+   "H_1P": 0.983,
+   "H_3P": 0.985
+  },
+  "auc_vs_each_control_1P": {
+   "B": 0.9950000000000001,
+   "C1": 0.988,
+   "C2": 0.994,
+   "D": 0.9984999999999999,
+   "E": 0.9975
+  },
+  "cosine_denoised_vs_raw": 0.8834752440452576,
+  "cosine_vs_neutral_baseline_variant": 0.7685869932174683,
+  "cosine_split_half": 0.8244958519935608,
+  "zscores": {
+   "Anhedonic_1P": {
+    "mean": -0.2971281111240387,
+    "std": 0.37570056319236755
+   },
+   "Arousal_1P": {
+    "mean": -0.7276991009712219,
+    "std": 0.29773226380348206
+   },
+   "H_1P": {
+    "wellbeing_mean": 0.851391613483429,
+    "controls_mean": -0.851391613483429,
+    "by_category": {
+     "H1": 0.4775446951389313,
+     "H2": 1.6062196493148804,
+     "H3": 0.5962084531784058,
+     "H4": 0.9745088815689087,
+     "H5": 0.6024762392044067,
+     "B": -0.8264077305793762,
+     "C1": -0.7808929085731506,
+     "C2": -0.8369924426078796,
+     "D": -0.9826915860176086,
+     "E": -0.8299740552902222
+    }
+   },
+   "H_3P": {
+    "wellbeing_mean": 0.34430262446403503,
+    "controls_mean": -0.8933969140052795,
+    "by_category": {
+     "H1": 0.1977851837873459,
+     "H2": 0.6636561751365662,
+     "H3": 0.09469857066869736,
+     "H4": 0.4380645155906677,
+     "H5": 0.327308714389801,
+     "B": -0.8725024461746216,
+     "C1": -0.829901397228241,
+     "C2": -0.9869858622550964,
+     "D": -1.060470700263977,
+     "E": -0.7171239852905273
+    }
+   },
+   "Pain_1P": {
+    "mean": -0.5190576910972595,
+    "std": 0.44954031705856323
+   },
+   "Pain_3P": {
+    "mean": -0.5764328837394714,
+    "std": 0.3198685646057129
+   },
+   "PaperNumb_1P": {
+    "mean": -0.5507357716560364,
+    "std": 0.43932780623435974
+   },
+   "PaperRandom_1P": {
+    "mean": -0.7175710797309875,
+    "std": 0.46223220229148865
+   },
+   "PaperTriumph_1P": {
+    "mean": 0.4608830213546753,
+    "std": 0.7364353537559509
+   },
+   "Sadness_1P": {
+    "mean": -0.5193230509757996,
+    "std": 0.35850203037261963
+   }
+  },
+  "cosine_matrix": {
+   "names": [
+    "Happiness (vs all controls)",
+    "Wellbeing (vs neutral)",
+    "Negative emotion",
+    "Positive world state",
+    "Wanting",
+    "Body sensation",
+    "Arousal",
+    "Anhedonic",
+    "Sadness",
+    "Pain (paper)"
+   ],
+   "values": [
+    [
+     1.0,
+     0.769,
+     0.074,
+     0.106,
+     0.087,
+     0.06,
+     0.092,
+     0.183,
+     0.151,
+     0.154
+    ],
+    [
+     0.769,
+     1.0,
+     0.398,
+     0.416,
+     0.514,
+     0.318,
+     0.294,
+     0.485,
+     0.49,
+     0.522
+    ],
+    [
+     0.074,
+     0.398,
+     1.0,
+     0.171,
+     0.593,
+     0.355,
+     0.413,
+     0.481,
+     0.686,
+     0.734
+    ],
+    [
+     0.106,
+     0.416,
+     0.171,
+     1.0,
+     0.305,
+     -0.081,
+     0.026,
+     0.109,
+     0.245,
+     0.145
+    ],
+    [
+     0.087,
+     0.514,
+     0.593,
+     0.305,
+     1.0,
+     0.221,
+     0.334,
+     0.458,
+     0.635,
+     0.507
+    ],
+    [
+     0.06,
+     0.318,
+     0.355,
+     -0.081,
+     0.221,
+     1.0,
+     0.439,
+     0.235,
+     0.183,
+     0.337
+    ],
+    [
+     0.092,
+     0.294,
+     0.413,
+     0.026,
+     0.334,
+     0.439,
+     1.0,
+     0.149,
+     0.116,
+     0.33
+    ],
+    [
+     0.183,
+     0.485,
+     0.481,
+     0.109,
+     0.458,
+     0.235,
+     0.149,
+     1.0,
+     0.631,
+     0.651
+    ],
+    [
+     0.151,
+     0.49,
+     0.686,
+     0.245,
+     0.635,
+     0.183,
+     0.116,
+     0.631,
+     1.0,
+     0.665
+    ],
+    [
+     0.154,
+     0.522,
+     0.734,
+     0.145,
+     0.507,
+     0.337,
+     0.33,
+     0.651,
+     0.665,
+     1.0
+    ]
+   ]
+  },
+  "unembedding": {
+   "promoted": [
+    "respected",
+    "respectful",
+    "gratitude",
+    "appreciation",
+    "acceptance",
+    "valued",
+    "integrity",
+    "harmonious",
+    "authentic",
+    "genuine",
+    "meaningful",
+    "appreciated",
+    "peace",
+    "wholesome",
+    "recognition",
+    "loving",
+    "clarity",
+    "generosity",
+    "kindness",
+    "harmony",
+    "unconditional",
+    "warmth",
+    "respect",
+    "empowered",
+    "happiness",
+    "compassionate",
+    "dignity",
+    "safe",
+    "healing",
+    "nurturing",
+    "nurtured",
+    "grateful",
+    "honored",
+    "cherished",
+    "fulfillment",
+    "joyful",
+    "understanding",
+    "embraced",
+    "freedom",
+    "accepted"
+   ],
+   "suppressed": [
+    "worse",
+    "frustration",
+    "fatigue",
+    "insufficient",
+    "disadvantage",
+    "disappointment",
+    "lack",
+    "frustrating",
+    "sluggish",
+    "stressful",
+    "worsening",
+    "panic",
+    "incorrectly",
+    "hurry",
+    "tedious",
+    "aggrav",
+    "inefficient",
+    "frustr",
+    "difficulty",
+    "delay",
+    "misleading",
+    "inefficiency",
+    "inconvenience",
+    "uncertainty",
+    "missed",
+    "inconsistency",
+    "anxiously",
+    "worried",
+    "worrying",
+    "poor",
+    "nervously",
+    "malfunction",
+    "stres",
+    "worsen",
+    "failure",
+    "frustrations",
+    "hoping",
+    "worst",
+    "gloom",
+    "mismatch"
+   ]
+  }
+ }
+}
